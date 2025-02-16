@@ -23,3 +23,5 @@ function updateSlidePosition() {
 
 // Optionally: Add automatic sliding after a certain time interval
 setInterval(() => moveSlide(1), 3000); // Moves every 3 seconds
+
+
